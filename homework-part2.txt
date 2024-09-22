@@ -1,0 +1,24 @@
+Linux commands:
+pwd - prints current working directory
+mkdir - makes a new directory 
+cd - current directory
+ls -ltr - list files / directories in long format, sort by time modification and reverse order to see newest files.
+cd .. - Goes up one directory from current directory
+cat - print/concatenate a file to the screen to view. (Very much like print or system.out.println())
+pico - a file editor
+
+Github Commands:
+git config - Lets git know which user you are
+git clone - copies a repo from github to your VM/machine
+git status - checks the status of your repository / checks for any changes.
+git add - adds files to prepare your next commit to push officially into repo
+git commit - commits changes and include a comment with the changes you made to the code
+git push - push all your commits to your repo
+
+i. We can brain-storm with other classmates on homeworks but we cannot collaborate code. Regardless if we brainstorm
+or not, we need to have a reference file specifically saying "I did not collaborate with anyone". 
+ii. We can consult external sources, we just have to cite them in our references txt file. The only external source 
+we cannot use is ChatGPT and AI tools. 
+iii. There is a 10% per day reduction in grade for each day you are late after the homeworks due date. 
+iiii. If a student is absent, then the student remains responsible for the lectures and work that they missed during
+class time.
